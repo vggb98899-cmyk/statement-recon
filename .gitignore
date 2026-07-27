@@ -12,6 +12,9 @@ output/
 .idea/
 .vscode/
 
+# 个人准备文档（面试官不需要看到）
+面试准备.md
+
 # 环境变量（包含敏感配置，如 Webhook URL）
 .env
 
