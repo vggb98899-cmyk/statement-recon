@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# 输出目录（Excel报告不提交到版本库）
+output/
+
+# IDE
+.idea/
+.vscode/
+
+# 环境变量（包含敏感配置，如 Webhook URL）
+.env
+
+# 系统
+.DS_Store
+Thumbs.db
